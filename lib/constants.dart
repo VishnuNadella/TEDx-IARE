@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 
 
-const String dbPwd = "P2EpqWdUuORBNHN3";
-const String usn = "Vishnu";
+const String dbPwd = "";
+const String usn = "";
 
 const String MONGO_URL = "mongodb+srv://$usn:$dbPwd@tedxiare.xelovad.mongodb.net/events?retryWrites=true&w=majority";
 const String COLLECTION_NAME = "jan2023";
